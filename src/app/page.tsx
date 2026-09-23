@@ -34,7 +34,7 @@ export default function Home() {
                                className="px-8 py-3 rounded-md bg-dark-800 hover:bg-dark-700 text-white font-medium transition-colors border border-dark-700 flex items-center justify-center gap-2">
                                 GitHub Profile
                             </a>
-                            <Link href="/contact"
+                            <Link href="/#contact"
                                className="px-8 py-3 rounded-md bg-primary hover:bg-blue-600 text-white font-medium transition-colors border border-transparent">
                                 Contact Me
                             </Link>

@@ -158,7 +158,7 @@ export const Navbar = () => {
                         <Link
                             href="/#contact"
                             onClick={closeMenu}
-                            className="block text-primary hover:bg-dark-700 px-3 py-2 rounded-md text-base font-medium"
+                            className="block hover:bg-dark-700 px-3 py-2 rounded-md text-base font-medium"
                         >
                             Contact
                         </Link>
