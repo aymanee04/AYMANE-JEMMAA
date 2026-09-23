@@ -20,7 +20,7 @@ export default function Home() {
                     <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
                         <p className="text-primary font-mono mb-4 text-lg">Hi, my name is</p>
                         <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 tracking-tight">
-                            Aymane JEMMAA.
+                            Aymane Jemmaa.
                         </h1>
                         <h2 className="text-3xl md:text-5xl font-bold text-gray-400 mb-8">
                             Full-Stack Web Developer.
